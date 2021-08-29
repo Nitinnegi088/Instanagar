@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "936414085022",
+    "project_id": "instagram-1-99c1b",
+    "storage_bucket": "instagram-1-99c1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936414085022:android:fb7d1c415c649ad2a6608f",
+        "android_client_info": {
+          "package_name": "com.example.instanagar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936414085022-4b7mnbo5q0rbipk7vfm3h5qavbdhfb1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLegQeJJItQiL9pGJ-kRa_AFjks1L6Cpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936414085022-4b7mnbo5q0rbipk7vfm3h5qavbdhfb1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
